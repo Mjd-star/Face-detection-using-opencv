@@ -16,5 +16,7 @@ https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_
 
 
 Results:
-![2021-07-10](https://user-images.githubusercontent.com/85651071/125176545-eec6e900-e1dc-11eb-9031-12ba154974e8.png)
+![2021-07-10 (2)](https://user-images.githubusercontent.com/85651071/125176745-a4466c00-e1de-11eb-90cb-4bf886e9e4e5.png)
+
+
 
