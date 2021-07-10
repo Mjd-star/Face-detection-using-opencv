@@ -6,7 +6,7 @@ pip install opencv-python
 ## You need to download the trained classifier XML file (haarcascade_frontalface_default.xml), which is available in OpenCv’s
 
 https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_default.xml
-To detect faces in images:
+## To detect faces in images:
 
 
 
