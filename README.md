@@ -9,21 +9,23 @@ https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_
 ## To detect faces in images:
  ```
  ```
- import cv2`
+ import cv2
 
-`# Load the cascade`
+# Load the cascade
 
-`face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')`
+face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
-`# Read the input image`
+# Read the input image
 
-`img = cv2.imread('test.jpg')`
+img = cv2.imread('test.jpg')
 
-`# Convert into grayscale`
+# Convert into grayscale
 
-`gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)`
+gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-`# Detect faces`
+# Detect faces
+```
+```
 
 `faces = face_cascade.detectMultiScale(gray, 1.1, 4)`
 
