@@ -7,7 +7,9 @@ pip install opencv-python
 
 https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_default.xml
 ## To detect faces in images:
- ` import cv2`
+ ```
+ ```
+ import cv2`
 
 `# Load the cascade`
 
@@ -31,7 +33,9 @@ https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_
 
  ` cv2.rectangle(img, (x, y), (x+w, y+h), (255, 0, 0), 2)`
     
-`# Display the output`
+`# Display the output
+```
+```
 
 `cv2.imshow('img', img)`
 
