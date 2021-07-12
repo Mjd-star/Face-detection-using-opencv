@@ -1,12 +1,13 @@
 # Face-detection-using-opencv
-## First of all make sure you have OpenCV installed. You can install it using pip:
+## Steps
+### First of all make sure you have OpenCV installed. You can install it using pip:
 
-pip install opencv-python
+`pip install opencv-python`
 
-## You need to download the trained classifier XML file (haarcascade_frontalface_default.xml), which is available in OpenCv’s
+### You need to download the trained classifier XML file (haarcascade_frontalface_default.xml), which is available in OpenCv’s
 
 https://github.com/adarsh1021/facedetection/blob/master/haarcascade_frontalface_default.xml
-## To detect faces in images:
+### To detect faces in images:
  ````
  ```
  import cv2
